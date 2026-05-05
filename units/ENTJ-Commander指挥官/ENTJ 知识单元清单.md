@@ -55,7 +55,6 @@
 - `ENTJ-career-collab-nf` — [ENTJ/职业-协作-NF.md](ENTJ/职业-协作-NF.md)
 - `ENTJ-career-collab-sj` — [ENTJ/职业-协作-SJ.md](ENTJ/职业-协作-SJ.md)
 - `ENTJ-career-collab-sp` — [ENTJ/职业-协作-SP.md](ENTJ/职业-协作-SP.md)
-- `ENTJ-career-conclusion` — [ENTJ/职业-结论.md](ENTJ/职业-结论.md)
 
 **overview**
 - `ENTJ-overview-core` — [ENTJ/ENTJ-概述-核心特征.md](ENTJ/ENTJ-概述-核心特征.md)

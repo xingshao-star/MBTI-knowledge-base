@@ -40,12 +40,10 @@
 - `INFP-academic-high-school` — [INFP/academic-高中.md](INFP/academic-高中.md)
 - `INFP-academic-university` — [INFP/academic-大学.md](INFP/academic-大学.md)
 - `INFP-academic-lifelong-learning` — [INFP/academic-终身学习.md](INFP/academic-终身学习.md)
-- `INFP-academic-conclusion` — [INFP/academic-结论.md](INFP/academic-结论.md)
 
 **career**
 - `INFP-career-overview` — [INFP/career-总论.md](INFP/career-总论.md)
 - `INFP-career-workplace-roles` — [INFP/career-职场角色.md](INFP/career-职场角色.md)
-- `INFP-career-conclusion` — [INFP/career-结论.md](INFP/career-结论.md)
 
 **dimension-trait**
 - `INFP-dimension-trait-introversion` — [INFP/dimension-trait-内倾型.md](INFP/dimension-trait-内倾型.md)
@@ -53,7 +51,6 @@
 
 **friendship**
 - `INFP-friendship-overview` — [INFP/friendship-总论.md](INFP/friendship-总论.md)
-- `INFP-friendship-conclusion` — [INFP/friendship-结论.md](INFP/friendship-结论.md)
 
 **overview**
 - `INFP-overview-core` — [INFP/overview-概述.md](INFP/overview-概述.md)
@@ -69,11 +66,9 @@
 - `INFP-growth-confidence` — [INFP/personal-growth-自信.md](INFP/personal-growth-自信.md)
 - `INFP-growth-self-evolution` — [INFP/personal-growth-自我进化.md](INFP/personal-growth-自我进化.md)
 - `INFP-growth-self-responsibility` — [INFP/personal-growth-自我负责.md](INFP/personal-growth-自我负责.md)
-- `INFP-growth-conclusion` — [INFP/personal-growth-结论.md](INFP/personal-growth-结论.md)
 
 **romantic**
 - `INFP-romantic-overview` — [INFP/romantic-总论.md](INFP/romantic-总论.md)
-- `INFP-romantic-conclusion` — [INFP/romantic-结论.md](INFP/romantic-结论.md)
 
 ## 关系单元
 

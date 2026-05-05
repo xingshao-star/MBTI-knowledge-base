@@ -46,14 +46,14 @@
 - `INTJ-career-suitable-jobs` — [INTJ/职业-适合的职业.md](INTJ/职业-适合的职业.md)
 - `INTJ-career-unsuitable-jobs` — [INTJ/职业-不适合的职业.md](INTJ/职业-不适合的职业.md)
 - `INTJ-career-workplace-habits` — [INTJ/职业-职场习惯.md](INTJ/职业-职场习惯.md)
-- `INTJ-career-communication-roles` — [INTJ/职业-沟通-四角色组.md](INTJ/职业-沟通-四角色组.md)
+- `INTJ-career-communication-roles` — [INTJ/职业-沟通-四角色组.md](relationships/职业-沟通-四角色组.md)
 
 **friendship**
 - `INTJ-friendship-overview` — [INTJ/友谊-概述.md](INTJ/友谊-概述.md)
-- `INTJ-friendship-NT` — [INTJ/友谊-NT型朋友.md](INTJ/友谊-NT型朋友.md)
-- `INTJ-friendship-NF` — [INTJ/友谊-NF型朋友.md](INTJ/友谊-NF型朋友.md)
-- `INTJ-friendship-SJ` — [INTJ/友谊-SJ型朋友.md](INTJ/友谊-SJ型朋友.md)
-- `INTJ-friendship-SP` — [INTJ/友谊-SP型朋友.md](INTJ/友谊-SP型朋友.md)
+- `INTJ-friendship-NT` — [INTJ/友谊-NT型朋友.md](relationships/友谊-NT型朋友.md)
+- `INTJ-friendship-NF` — [INTJ/友谊-NF型朋友.md](relationships/友谊-NF型朋友.md)
+- `INTJ-friendship-SJ` — [INTJ/友谊-SJ型朋友.md](relationships/友谊-SJ型朋友.md)
+- `INTJ-friendship-SP` — [INTJ/友谊-SP型朋友.md](relationships/友谊-SP型朋友.md)
 
 **overview**
 - `INTJ-overview-core` — [INTJ/概述-核心特征.md](INTJ/概述-核心特征.md)
@@ -67,12 +67,9 @@
 **personal-growth**
 - `INTJ-growth-strengths` — [INTJ/成长-优势.md](INTJ/成长-优势.md)
 - `INTJ-growth-weaknesses` — [INTJ/成长-劣势.md](INTJ/成长-劣势.md)
-- `INTJ-growth-self-esteem-balanced` — [INTJ/成长-自尊-平衡.md](INTJ/成长-自尊-平衡.md)
-- `INTJ-growth-self-esteem-diagnostic` — [INTJ/成长-自尊-诊断.md](INTJ/成长-自尊-诊断.md)
-- `INTJ-growth-self-regard-balanced` — [INTJ/成长-自我尊重-平衡.md](INTJ/成长-自我尊重-平衡.md)
-- `INTJ-growth-self-regard-diagnostic` — [INTJ/成长-自我尊重-诊断.md](INTJ/成长-自我尊重-诊断.md)
-- `INTJ-growth-confidence-balanced` — [INTJ/成长-自信-平衡.md](INTJ/成长-自信-平衡.md)
-- `INTJ-growth-confidence-diagnostic` — [INTJ/成长-自信-诊断.md](INTJ/成长-自信-诊断.md)
+- `INTJ-growth-self-esteem` — [INTJ/成长-自尊.md](INTJ/成长-自尊.md)
+- `INTJ-growth-self-regard` — [INTJ/成长-自我尊重.md](INTJ/成长-自我尊重.md)
+- `INTJ-growth-confidence` — [INTJ/成长-自信.md](INTJ/成长-自信.md)
 - `INTJ-growth-leveraging-traits` — [INTJ/成长-善用特质.md](INTJ/成长-善用特质.md)
 
 **romantic**

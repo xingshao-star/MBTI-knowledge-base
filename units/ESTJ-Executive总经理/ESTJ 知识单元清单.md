@@ -44,11 +44,9 @@
 
 **career**
 - `ESTJ-career-overview` — [ESTJ/career-职业发展.md](ESTJ/career-职业发展.md)
-- `ESTJ-career-conclusion` — [ESTJ/career-职业结论.md](ESTJ/career-职业结论.md)
 
 **friendship**
 - `ESTJ-friendship-overview` — [ESTJ/friendship-友谊总论.md](ESTJ/friendship-友谊总论.md)
-- `ESTJ-friendship-conclusion` — [ESTJ/friendship-友谊结论.md](ESTJ/friendship-友谊结论.md)
 
 **overview**
 - `ESTJ-overview-core` — [ESTJ/overview-核心概述.md](ESTJ/overview-核心概述.md)
@@ -60,7 +58,6 @@
 - `ESTJ-parenting-preschool` — [ESTJ/parenting-学龄前.md](ESTJ/parenting-学龄前.md)
 - `ESTJ-parenting-school-age` — [ESTJ/parenting-学龄期.md](ESTJ/parenting-学龄期.md)
 - `ESTJ-parenting-adolescent` — [ESTJ/parenting-青少年期.md](ESTJ/parenting-青少年期.md)
-- `ESTJ-parenting-conclusion` — [ESTJ/parenting-育儿结论.md](ESTJ/parenting-育儿结论.md)
 
 **personal-growth**
 - `ESTJ-growth-motivation` — [ESTJ/personal-growth-动力与发展.md](ESTJ/personal-growth-动力与发展.md)
@@ -69,11 +66,9 @@
 - `ESTJ-growth-confidence` — [ESTJ/personal-growth-自信.md](ESTJ/personal-growth-自信.md)
 - `ESTJ-growth-self-evolution` — [ESTJ/personal-growth-自我进化.md](ESTJ/personal-growth-自我进化.md)
 - `ESTJ-growth-self-responsibility` — [ESTJ/personal-growth-自我责任.md](ESTJ/personal-growth-自我责任.md)
-- `ESTJ-growth-conclusion` — [ESTJ/personal-growth-成长结论.md](ESTJ/personal-growth-成长结论.md)
 
 **romantic**
 - `ESTJ-romantic-overview` — [ESTJ/romantic-恋爱总论.md](ESTJ/romantic-恋爱总论.md)
-- `ESTJ-romantic-conclusion` — [ESTJ/romantic-恋爱结论.md](ESTJ/romantic-恋爱结论.md)
 
 ## 关系单元
 
