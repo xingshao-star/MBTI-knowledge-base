@@ -1,0 +1,24 @@
+=== _word_count > 3000 (22 files) ===
+
+3037: ./ENFP-Campaigner竞选者/ENFP/育儿-婴儿期.md
+3100: ./INFJ-Advocate提倡者/INFJ/学业-大学与终身学习.md
+3120: ./人格共享内容/策略-自信独行型（内倾型×自信型）.md
+3263: ./人格共享内容/类型组-NT分析家.md
+3318: ./ENFP-Campaigner竞选者/ENFP/学业-学习方式.md
+3327: ./ENFP-Campaigner竞选者/ENFP/育儿-青春期.md
+3459: ./ENFP-Campaigner竞选者/ENFP/育儿-总论与原则.md
+3469: ./人格共享内容/类型组-SP探险家.md
+3551: ./人格共享内容/策略-社交投入型（外倾型×动荡型）.md
+3591: ./人格共享内容/身份维度-自信型（-A）与动荡型（-T）.md
+3601: ./ISFP-Adventurer探险家/ISFP/职业-选择与创业.md
+3803: ./人格共享内容/类型组-SJ守卫者.md
+4053: ./人格共享内容/类型组-NF外交家.md
+4295: ./ENFP-Campaigner竞选者/ENFP/职业-总论与选择.md
+4450: ./人格共享内容/行动维度-计划型（J）与灵活型（P）.md
+4876: ./人格共享内容/本性维度-思考型（T）与情感型（F）.md
+4936: ./人格共享内容/心智维度-内倾型（I）与外倾型（E）.md
+5186: ./ISFP-Adventurer探险家/ISFP/职业-职场协作.md
+5194: ./ENFP-Campaigner竞选者/ENFP/学业-大学与终身学习.md
+5200: ./ENTP-Debater辩论家/ENTP/学业-大学与终身学习.md
+5255: ./人格共享内容/能量维度-直觉型（N）与实感型（S）.md
+6200: ./ENTP-Debater辩论家/ENTP/职业-职场协作.md
