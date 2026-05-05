@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 个人成长, 自尊, 价值感, 同理心, 领导力, 慈悲
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-growth-self-esteem"]
-status: draft
+status: active
 ---
 
 > ENFJ 通过践行慈悲建立价值感，失衡时陷入戏剧化共情或牺牲型领导，需回归目标导向的贡献。
@@ -80,5 +80,3 @@ ENFJ 的理想也可能使他们向另一个方向失衡。如果他们像理想
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-成长-奠基与动机]] — 成长框架总论
-- [[ENFJ-成长-自重]] — 成长：自重

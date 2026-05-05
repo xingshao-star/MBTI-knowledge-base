@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, SP组, 友谊, 探险家, 冒险, 当下]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-SP-friendship"]
-status: draft
+status: active
 ---
 
 > ENFJ 与 SP 型人的友谊充满活力，挑战在于深度期待与享受当下的轻松态度之间的落差。
@@ -63,5 +63,3 @@ ENFJ 型的人还应明确自己的承诺和价值观对自己有多重要，并
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-SP组-恋爱]] — 与 SP 型人的恋爱
-- [[ENFJ-SP组-职场]] — 与 SP 型人的职场

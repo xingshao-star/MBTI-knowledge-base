@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 学业, 高中, 选择性卓越, 完美主义, 时间管理, 
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-academic-high-school"]
-status: draft
+status: active
 ---
 
 > ENFJ 高中生在感兴趣的学科才华横溢，在无关学科敷衍了事，需建立联结感来平衡选择性卓越。
@@ -87,5 +87,3 @@ ENFJ 在高中阶段还需克服另一道障碍：他们那永无止境且毫不
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-学业-学习方式]] — 学习方式
-- [[ENFJ-学业-大学决策]] — 大学决策

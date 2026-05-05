@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 育儿, 婴儿期, 依恋关系, 情感纽带, 自我关怀]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-parenting-infancy"]
-status: draft
+status: active
 ---
 
 > ENFJ 父母在婴儿期天然擅长建立依恋纽带，需警惕承担过多和对发育里程碑的不切实际期望。
@@ -74,5 +74,3 @@ ENFJ 父母虽致力于成为卓越的导师，但在促进婴幼儿发展方面
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-育儿-总论与原则]] — 育儿总论
-- [[ENFJ-育儿-幼儿期]] — 下一阶段：幼儿期

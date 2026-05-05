@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 职业, 使命感, 创造力, 医疗保健, 教育, 公共服
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-career-overview"]
-status: draft
+status: active
 ---
 
 > ENFJ 在融合创造力、同理心和挑战的职业中最佳，医疗、教育、公共服务是典型方向。
@@ -124,5 +124,3 @@ ENFJ 需要考量管理层的价值观是否与自身一致。无论职位高低
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-职业-求职与面试]] — 求职与面试
-- [[ENFJ-职业-职场习惯]] — 职场习惯

@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, SJ组, 友谊, 守卫者, 务实, 互补]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-SJ-friendship"]
-status: draft
+status: active
 ---
 
 > ENFJ 与 SJ 型人的友谊中，理想主义与务实稳定互补，挑战在于对变化和传统的不同态度。
@@ -64,5 +64,3 @@ ENFJ 对可能性充满热情，总是渴望走出去获取能激发想象力的
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-SJ组-恋爱]] — 与 SJ 型人的恋爱
-- [[ENFJ-SJ组-职场]] — 与 SJ 型人的职场

@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 育儿, 幼儿期, 自主性, 界限探索, 过度介入]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-parenting-toddler"]
-status: draft
+status: active
 ---
 
 > ENFJ 父母在幼儿期充满同理心，需平衡支持与放手，避免过度介入阻碍孩子自主性发展。
@@ -69,6 +69,3 @@ ENFJ 父母可以通过定期寻找机会来促进幼儿的成长、解决问题
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-育儿-总论与原则]] — 育儿总论
-- [[ENFJ-育儿-婴儿期]] — 上一阶段：婴儿期
-- [[ENFJ-育儿-学龄前]] — 下一阶段：学龄前

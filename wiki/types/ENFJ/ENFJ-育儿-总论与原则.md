@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 育儿, 道德教育, 独立性, 期望管理, 亲子关系]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-parenting-overview"]
-status: draft
+status: active
 ---
 
 > ENFJ 父母以道德启迪和全心投入为核心，优势是温暖坚定，挑战是不切实际的期望和强势倾向。
@@ -56,4 +56,3 @@ ENFJ 父母的高道德标准也意味着，其他性格类型可能不以为意
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-育儿-婴儿期]] — 婴儿期（系列起点）

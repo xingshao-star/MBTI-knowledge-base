@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 个人成长, 自重, 自我喜爱, 价值观, 利他主义, 
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-growth-self-regard"]
-status: draft
+status: active
 ---
 
 > ENFJ 在为他人行善时最喜爱自己，失衡时因过高期望导致失望，需让期望与现实相符。
@@ -80,6 +80,3 @@ ENFJ 过高的期望往往导致持续的失望。然而，对这类理想主义
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-成长-奠基与动机]] — 成长框架总论
-- [[ENFJ-成长-自尊]] — 成长：自尊
-- [[ENFJ-成长-自信]] — 成长：自信

@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 职业, 求职, 面试, 人脉, 个人品牌, 沟通技巧]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-career-job-search"]
-status: draft
+status: active
 ---
 
 > ENFJ 凭借天然亲和力在求职中具有优势，需将个人兴趣与雇主需求关联并做好细节准备。
@@ -44,5 +44,3 @@ ENFJ 应做好准备，以近乎热情的态度回答许多套路化的问题，
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-职业-总论与选择]] — 职业总论
-- [[ENFJ-职业-职场习惯]] — 职场习惯

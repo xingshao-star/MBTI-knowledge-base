@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 学业, 大学, 终身学习, 好奇心, 固执, 正念]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-academic-college-lifelong"]
-status: draft
+status: active
 ---
 
 > ENFJ 在大学需平衡理想与现实，终身学习中需拓宽视野、享受过程，避免固执世界观。
@@ -120,4 +120,3 @@ ENFJ 面临的最大风险是，学习可能变成一种毫无乐趣的过程，
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-学业-大学决策]] — 大学决策

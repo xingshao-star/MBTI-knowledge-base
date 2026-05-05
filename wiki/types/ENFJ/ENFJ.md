@@ -4,7 +4,7 @@ tags: [mbti, type-hub, ENFJ, NF外交家]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-overview-总览"]
-status: draft
+status: active
 ---
 
 > ENFJ 以外倾情感（Fe）为主导，是天生的领导者与导师，以感召力和同理心激励他人。

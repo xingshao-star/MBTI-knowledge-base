@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, SJ组, 恋爱, 守卫者, 奉献, 稳定, 变革]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-SJ-romantic"]
-status: draft
+status: active
 ---
 
 > ENFJ 与 SJ 型人的恋爱中，稳定与激情形成张力，需尊重 SJ 对传统和安全感的需求。
@@ -75,5 +75,3 @@ ENFJ 可能会惊喜地发现，他们的想象力和理想主义对务实的 SJ
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-SJ组-友谊]] — 与 SJ 型人的友谊
-- [[ENFJ-SJ组-职场]] — 与 SJ 型人的职场

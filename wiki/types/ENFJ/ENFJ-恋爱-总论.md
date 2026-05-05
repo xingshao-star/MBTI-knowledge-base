@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 恋爱, 浪漫关系, 深度联结, 奉献, 灵魂伴侣, 理
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-romantic-overview"]
-status: draft
+status: active
 ---
 
 > ENFJ 渴望灵魂伴侣式的深度联结，以奉献和真诚投入恋爱，但理想化倾向可能使其更爱潜力而非现实。

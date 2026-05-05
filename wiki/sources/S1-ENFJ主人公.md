@@ -4,7 +4,7 @@ tags: [mbti, source, ENFJ]
 created: 2026-05-03
 updated: 2026-05-03
 source_units: [shared-theory-history, shared-dimension-ie, shared-dimension-ns, shared-dimension-tf, shared-dimension-jp, shared-dimension-at, shared-typegroup-nt, shared-typegroup-nf, shared-typegroup-sj, shared-typegroup-sp, shared-strategy-confident-individualism, shared-strategy-people-mastery, shared-strategy-constant-improvement, shared-strategy-social-engagement, ENFJ-overview-总览, ENFJ-growth-foundation, ENFJ-growth-self-esteem, ENFJ-growth-self-regard, ENFJ-growth-self-confidence, ENFJ-growth-self-evolution, ENFJ-growth-self-responsibility, ENFJ-friendship-总论, ENFJ-romantic-总论, ENFJ-parenting-总论原则, ENFJ-parenting-婴儿期, ENFJ-parenting-幼儿期, ENFJ-parenting-学龄前, ENFJ-parenting-学龄期, ENFJ-parenting-青春期, ENFJ-academic-学习方式, ENFJ-academic-高中, ENFJ-academic-大学决策, ENFJ-academic-大学终身学习, ENFJ-career-总论选择, ENFJ-career-求职面试, ENFJ-career-职场习惯, ENFJ-NT组-友谊, ENFJ-NT组-恋爱, ENFJ-NT组-职场, ENFJ-NF组-友谊, ENFJ-NF组-恋爱, ENFJ-NF组-职场, ENFJ-SJ组-友谊, ENFJ-SJ组-恋爱, ENFJ-SJ组-职场, ENFJ-SP组-友谊, ENFJ-SP组-恋爱, ENFJ-SP组-职场]
-status: draft
+status: active
 ---
 
 > 本库首部来源书籍摘要，涵盖 ENFJ 在成长、关系、育儿、学业、职业五大领域的完整描述。
@@ -36,8 +36,6 @@ status: draft
 ## 涉及类型 / 概念
 
 - [[ENFJ]] — 本书主要类型
-- [[NF-外交家]] — ENFJ 所属类型组
-- [[心智维度-内倾与外倾]] / [[能量维度-直觉与实感]] / [[本性维度-思考与情感]] / [[行动维度-计划与灵活]] / [[身份维度-自信与动荡]]
 
 ## LLM 评估
 

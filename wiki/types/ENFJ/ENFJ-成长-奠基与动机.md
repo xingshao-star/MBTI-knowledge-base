@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 个人成长, 动机, 自我发展, 导师, NF型]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-growth-foundation"]
-status: draft
+status: active
 ---
 
 > ENFJ 成长框架：创造性与反应性的平衡，以及自尊、自重、自信、自我进化、自我负责五大特质。
@@ -55,5 +55,3 @@ status: draft
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-成长-自尊]] — 成长：自尊
-- [[ENFJ-成长-自我进化]] — 成长：自我进化

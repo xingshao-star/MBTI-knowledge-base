@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 友谊, 人际关系, 同理心, 期望, 社交]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-friendship-overview"]
-status: draft
+status: active
 ---
 
 > ENFJ 以感染力和真诚建立深厚友谊，但非凡的期待有时会推开朋友，同理心是弥合差异的关键。

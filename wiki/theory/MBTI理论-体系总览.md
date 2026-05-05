@@ -4,7 +4,7 @@ tags: [mbti, overview, theory]
 created: 2026-05-02
 updated: 2026-05-04
 sources: [shared-theory-history, shared-dimension-ie, shared-dimension-ns, shared-dimension-tf, shared-dimension-jp, shared-dimension-at, shared-typegroup-nt, shared-typegroup-nf, shared-typegroup-sj, shared-typegroup-sp, shared-strategy-confident-individualism, shared-strategy-people-mastery, shared-strategy-constant-improvement, shared-strategy-social-engagement]
-status: draft
+status: active
 ---
 
 > MBTI 通过五大维度和16种类型描述人格差异，是理解自我与他人行为模式的框架。

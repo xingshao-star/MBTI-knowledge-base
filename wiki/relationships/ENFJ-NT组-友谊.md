@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, NT组, 友谊, 分析家, 互补, 情感差异]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-NT-friendship"]
-status: draft
+status: active
 ---
 
 > ENFJ 与 NT 型人的友谊建立在互补想象力上，挑战在于理想主义破灭和情感差异。
@@ -65,5 +65,3 @@ ENFJ 在情感理解方面非常敏锐，总是致力于化解不快情绪，但
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-NT组-恋爱]] — 与 NT 型人的恋爱
-- [[ENFJ-NT组-职场]] — 与 NT 型人的职场

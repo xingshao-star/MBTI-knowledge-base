@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 学业, 学习方式, 使命感, 人文关怀, 自我平衡, 
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-academic-learning-style"]
-status: draft
+status: active
 ---
 
 > ENFJ 以"为他人而自我完善"的使命感驱动学习，擅长人文领域，需警惕受制于他人的失衡。
@@ -89,4 +89,3 @@ ENFJ 可能需要有意识地安排时间用于进餐、休息和放松。设置
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-学业-高中]] — 高中阶段

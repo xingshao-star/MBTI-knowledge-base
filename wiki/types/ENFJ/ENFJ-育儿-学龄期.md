@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 育儿, 学龄期, 能力培养, 创造力, 理想主义, 接
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-parenting-school-age"]
-status: draft
+status: active
 ---
 
 > ENFJ 父母在学龄期热情鼓励且善于引导，需避免以理想主义期望压过对孩子当下需求的关注。
@@ -72,6 +72,3 @@ ENFJ 父母应鼓励子女建立自己的价值观，并追求属于他们自己
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-育儿-总论与原则]] — 育儿总论
-- [[ENFJ-育儿-学龄前]] — 上一阶段：学龄前
-- [[ENFJ-育儿-青春期]] — 下一阶段：青春期

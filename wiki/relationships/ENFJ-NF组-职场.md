@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, NF组, 职场, 外交家, 理想主义, 行动力, 落实]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-NF-career"]
-status: draft
+status: active
 ---
 
 > ENFJ 与 NF 型人在职场价值观高度一致，挑战在于缺乏务实执行力。
@@ -72,5 +72,3 @@ ENFJ 必须给其他 NF 型人留出空间，让他们自行消化信息。在 N
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-NF组-友谊]] — 与 NF 型人的友谊
-- [[ENFJ-NF组-恋爱]] — 与 NF 型人的恋爱

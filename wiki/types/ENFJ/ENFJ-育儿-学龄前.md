@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 育儿, 学龄前, 情商, 创造力, 期望调整, 游戏]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-parenting-preschool"]
-status: draft
+status: active
 ---
 
 > ENFJ 父母在学龄前是优秀的教师和情商示范者，需调整野心过盛的倾向，留出自由玩耍时间。
@@ -72,6 +72,3 @@ ENFJ 父母通常不难维持跟上孩子步伐所需的精力。然而，他们
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-育儿-总论与原则]] — 育儿总论
-- [[ENFJ-育儿-幼儿期]] — 上一阶段：幼儿期
-- [[ENFJ-育儿-学龄期]] — 下一阶段：学龄期

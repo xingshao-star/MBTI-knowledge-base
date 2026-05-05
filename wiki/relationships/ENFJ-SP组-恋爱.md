@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, SP组, 恋爱, 探险家, 激情, 独立, 当下]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-SP-romantic"]
-status: draft
+status: active
 ---
 
 > ENFJ 与 SP 型人的恋爱中激情与自由并存，需接受 SP 不愿被"改造"的本性。
@@ -70,5 +70,3 @@ ENFJ 型伴侣渴望提供帮助，但若过度介入，便可能演变为想要
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-SP组-友谊]] — 与 SP 型人的友谊
-- [[ENFJ-SP组-职场]] — 与 SP 型人的职场

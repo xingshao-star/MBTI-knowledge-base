@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 职业, 职场, 领导力, 创造力, 同理心, 角色灵活
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-career-workplace"]
-status: draft
+status: active
 ---
 
 > ENFJ 是天然的团队凝聚者和创新者，挑战在于平衡同理心与客观性，需学会区分界限。
@@ -78,5 +78,3 @@ ENFJ 的天然倾向是接纳并鼓励他人。对抗性行为往往令他们感
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-职业-总论与选择]] — 职业总论
-- [[ENFJ-职业-求职与面试]] — 求职与面试

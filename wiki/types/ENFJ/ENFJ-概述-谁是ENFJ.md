@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 概述, 人格特质, 领导力, 同理心, 理想主义]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-overview-who"]
-status: draft
+status: active
 ---
 
 > 从成长、人际、学业、职业四个维度概览 ENFJ 的核心特质：感召力强、理想主义、有时过于强势。

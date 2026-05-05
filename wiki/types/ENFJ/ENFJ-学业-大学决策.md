@@ -4,7 +4,7 @@ tags: [mbti, ENFJ, 学业, 大学, 职业选择, 决策, 拖延, 真实性]
 created: 2026-05-03
 updated: 2026-05-03
 sources: ["ENFJ-academic-college-decision"]
-status: draft
+status: active
 ---
 
 > ENFJ 面临上大学还是工作的抉择时，需以诚实态度审视选择，避免永恒等待和反复纠结。
@@ -83,5 +83,3 @@ ENFJ 应试着理解：鲜有决定是永久性的。根据新信息改变主意
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
-- [[ENFJ-学业-高中]] — 高中阶段
-- [[ENFJ-学业-大学与终身学习]] — 大学与终身学习
