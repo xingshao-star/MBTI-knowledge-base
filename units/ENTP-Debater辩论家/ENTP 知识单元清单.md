@@ -41,7 +41,6 @@
 
 **career**
 - `ENTP-career-overview` — [ENTP/职业-总论与选择.md](ENTP/职业-总论与选择.md)
-- `ENTP-career-workplace-collaboration` — [ENTP/职业-职场协作.md](ENTP/职业-职场协作.md)
 
 **friendship**
 - `ENTP-friendship-overview` — [ENTP/友谊-总论.md](ENTP/友谊-总论.md)
