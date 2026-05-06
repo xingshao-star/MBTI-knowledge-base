@@ -1,5 +1,5 @@
 ---
-id: ESFJ-NF-romantic
+id: ESFJ-NF型人-romantic
 type: ESFJ
 category: romantic
 topic: ESFJ与NF型人 — 恋爱关系

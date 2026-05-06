@@ -68,19 +68,19 @@
 ## 关系单元
 
 ### ISTP 恋爱
-- `ISTP-NT-romantic` — [relationships/ISTP-NT组-恋爱.md](relationships/ISTP-NT组-恋爱.md)
-- `ISTP-NF-romantic` — [relationships/ISTP-NF组-恋爱.md](relationships/ISTP-NF组-恋爱.md)
-- `ISTP-SJ-romantic` — [relationships/ISTP-SJ组-恋爱.md](relationships/ISTP-SJ组-恋爱.md)
-- `ISTP-SP-romantic` — [relationships/ISTP-SP组-恋爱.md](relationships/ISTP-SP组-恋爱.md)
+- `ISTP-NT型人-romantic` — [relationships/ISTP-NT型人-恋爱.md](relationships/ISTP-NT型人-恋爱.md)
+- `ISTP-NF型人-romantic` — [relationships/ISTP-NF型人-恋爱.md](relationships/ISTP-NF型人-恋爱.md)
+- `ISTP-SJ型人-romantic` — [relationships/ISTP-SJ型人-恋爱.md](relationships/ISTP-SJ型人-恋爱.md)
+- `ISTP-SP型人-romantic` — [relationships/ISTP-SP型人-恋爱.md](relationships/ISTP-SP型人-恋爱.md)
 
 ### ISTP 友谊
-- `ISTP-NT-friendship` — [relationships/ISTP-NT组-友谊.md](relationships/ISTP-NT组-友谊.md)
-- `ISTP-NF-friendship` — [relationships/ISTP-NF组-友谊.md](relationships/ISTP-NF组-友谊.md)
-- `ISTP-SJ-friendship` — [relationships/ISTP-SJ组-友谊.md](relationships/ISTP-SJ组-友谊.md)
-- `ISTP-SP-friendship` — [relationships/ISTP-SP组-友谊.md](relationships/ISTP-SP组-友谊.md)
+- `ISTP-NT型人-friendship` — [relationships/ISTP-NT型人-友谊.md](relationships/ISTP-NT型人-友谊.md)
+- `ISTP-NF型人-friendship` — [relationships/ISTP-NF型人-友谊.md](relationships/ISTP-NF型人-友谊.md)
+- `ISTP-SJ型人-friendship` — [relationships/ISTP-SJ型人-友谊.md](relationships/ISTP-SJ型人-友谊.md)
+- `ISTP-SP型人-friendship` — [relationships/ISTP-SP型人-友谊.md](relationships/ISTP-SP型人-友谊.md)
 
 ### ISTP 职场协作
-- `ISTP-NT-career` — [relationships/ISTP-NT组-职场.md](relationships/ISTP-NT组-职场.md)
-- `ISTP-NF-career` — [relationships/ISTP-NF组-职场.md](relationships/ISTP-NF组-职场.md)
-- `ISTP-SJ-career` — [relationships/ISTP-SJ组-职场.md](relationships/ISTP-SJ组-职场.md)
-- `ISTP-SP-career` — [relationships/ISTP-SP组-职场.md](relationships/ISTP-SP组-职场.md)
+- `ISTP-NT型人-career` — [relationships/ISTP-NT型人-职场.md](relationships/ISTP-NT型人-职场.md)
+- `ISTP-NF型人-career` — [relationships/ISTP-NF型人-职场.md](relationships/ISTP-NF型人-职场.md)
+- `ISTP-SJ型人-career` — [relationships/ISTP-SJ型人-职场.md](relationships/ISTP-SJ型人-职场.md)
+- `ISTP-SP型人-career` — [relationships/ISTP-SP型人-职场.md](relationships/ISTP-SP型人-职场.md)

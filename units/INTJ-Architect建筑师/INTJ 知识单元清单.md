@@ -62,7 +62,7 @@
 - `INTJ-parenting-overview` — [INTJ/育儿-概述.md](INTJ/育儿-概述.md)
 - `INTJ-parenting-NT` — [INTJ/育儿-分析师子女.md](INTJ/育儿-分析师子女.md)
 - `INTJ-parenting-NF` — [INTJ/育儿-外交官子女.md](INTJ/育儿-外交官子女.md)
-- `INTJ-parenting-SJ-SP` — [INTJ/育儿-SJ型和SP型子女.md](INTJ/育儿-SJ型和SP型子女.md)
+- `INTJ-parenting-SJ型人-SP` — [INTJ/育儿-SJ型和SP型子女.md](INTJ/育儿-SJ型和SP型子女.md)
 
 **personal-growth**
 - `INTJ-growth-strengths` — [INTJ/成长-优势.md](INTJ/成长-优势.md)
@@ -87,7 +87,10 @@
 ## 关系单元
 
 ### INTJ 恋爱
-- `INTJ-NT-romantic` — [relationships/INTJ-NT-恋爱.md](relationships/INTJ-NT-恋爱.md)
-- `INTJ-NF-romantic` — [relationships/INTJ-NF-恋爱.md](relationships/INTJ-NF-恋爱.md)
-- `INTJ-SJ-romantic` — [relationships/INTJ-SJ-恋爱.md](relationships/INTJ-SJ-恋爱.md)
-- `INTJ-SP-romantic` — [relationships/INTJ-SP-恋爱.md](relationships/INTJ-SP-恋爱.md)
+- `INTJ-NT型人-romantic` — [relationships/INTJ-NT型人-恋爱.md](relationships/INTJ-NT型人-恋爱.md)
+- `INTJ-NF型人-romantic` — [relationships/INTJ-NF型人-恋爱.md](relationships/INTJ-NF型人-恋爱.md)
+- `INTJ-SJ型人-romantic` — [relationships/INTJ-SJ型人-恋爱.md](relationships/INTJ-SJ型人-恋爱.md)
+- `INTJ-SP型人-romantic` — [relationships/INTJ-SP型人-恋爱.md](relationships/INTJ-SP型人-恋爱.md)
+
+### INTJ 职场协作
+- `INTJ-career-overview` — [relationships/职业-沟通-四角色组.md](relationships/职业-沟通-四角色组.md)

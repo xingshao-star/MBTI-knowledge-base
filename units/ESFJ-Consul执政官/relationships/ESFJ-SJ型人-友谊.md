@@ -1,5 +1,5 @@
 ---
-id: ESFJ-SJ-friendship
+id: ESFJ-SJ型人-friendship
 type: ESFJ
 category: friendship
 topic: ESFJ与SJ型人 — 友谊

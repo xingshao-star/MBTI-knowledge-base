@@ -1,5 +1,5 @@
 ---
-id: ESFJ-NT-friendship
+id: ESFJ-NT型人-friendship
 type: ESFJ
 category: friendship
 topic: ESFJ与NT型人 — 友谊

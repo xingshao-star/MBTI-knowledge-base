@@ -1,5 +1,5 @@
 ---
-id: INTJ-parenting-SJ-SP
+id: INTJ-parenting-SJ型人-SP
 type: INTJ
 category: parenting
 topic: 育儿 — SJ 型与 SP 型子女

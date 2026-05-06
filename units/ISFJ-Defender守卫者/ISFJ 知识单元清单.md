@@ -76,19 +76,19 @@
 ## 关系单元
 
 ### ISFJ 恋爱
-- `ISFJ-NT-romantic` — [ISFJ-NT组-恋爱.md](relationships/ISFJ-NT组-恋爱.md)
-- `ISFJ-NF-romantic` — [ISFJ-NF组-恋爱.md](relationships/ISFJ-NF组-恋爱.md)
-- `ISFJ-SJ-romantic` — [ISFJ-SJ组-恋爱.md](relationships/ISFJ-SJ组-恋爱.md)
-- `ISFJ-SP-romantic` — [ISFJ-SP组-恋爱.md](relationships/ISFJ-SP组-恋爱.md)
+- `ISFJ-NT型人-romantic` — [relationships/ISFJ-NT型人-恋爱.md](relationships/ISFJ-NT型人-恋爱.md)
+- `ISFJ-NF型人-romantic` — [relationships/ISFJ-NF型人-恋爱.md](relationships/ISFJ-NF型人-恋爱.md)
+- `ISFJ-SJ型人-romantic` — [relationships/ISFJ-SJ型人-恋爱.md](relationships/ISFJ-SJ型人-恋爱.md)
+- `ISFJ-SP型人-romantic` — [relationships/ISFJ-SP型人-恋爱.md](relationships/ISFJ-SP型人-恋爱.md)
 
 ### ISFJ 友谊
-- `ISFJ-NT-friendship` — [ISFJ-NT组-友谊.md](relationships/ISFJ-NT组-友谊.md)
-- `ISFJ-NF-friendship` — [ISFJ-NF组-友谊.md](relationships/ISFJ-NF组-友谊.md)
-- `ISFJ-SJ-friendship` — [ISFJ-SJ组-友谊.md](relationships/ISFJ-SJ组-友谊.md)
-- `ISFJ-SP-friendship` — [ISFJ-SP组-友谊.md](relationships/ISFJ-SP组-友谊.md)
+- `ISFJ-NT型人-friendship` — [relationships/ISFJ-NT型人-友谊.md](relationships/ISFJ-NT型人-友谊.md)
+- `ISFJ-NF型人-friendship` — [relationships/ISFJ-NF型人-友谊.md](relationships/ISFJ-NF型人-友谊.md)
+- `ISFJ-SJ型人-friendship` — [relationships/ISFJ-SJ型人-友谊.md](relationships/ISFJ-SJ型人-友谊.md)
+- `ISFJ-SP型人-friendship` — [relationships/ISFJ-SP型人-友谊.md](relationships/ISFJ-SP型人-友谊.md)
 
 ### ISFJ 职场协作
-- `ISFJ-NT-career` — [ISFJ-NT组-职场.md](relationships/ISFJ-NT组-职场.md)
-- `ISFJ-NF-career` — [ISFJ-NF组-职场.md](relationships/ISFJ-NF组-职场.md)
-- `ISFJ-SJ-career` — [ISFJ-SJ组-职场.md](relationships/ISFJ-SJ组-职场.md)
-- `ISFJ-SP-career` — [ISFJ-SP组-职场.md](relationships/ISFJ-SP组-职场.md)
+- `ISFJ-NT型人-career` — [relationships/ISFJ-NT型人-职场.md](relationships/ISFJ-NT型人-职场.md)
+- `ISFJ-NF型人-career` — [relationships/ISFJ-NF型人-职场.md](relationships/ISFJ-NF型人-职场.md)
+- `ISFJ-SJ型人-career` — [relationships/ISFJ-SJ型人-职场.md](relationships/ISFJ-SJ型人-职场.md)
+- `ISFJ-SP型人-career` — [relationships/ISFJ-SP型人-职场.md](relationships/ISFJ-SP型人-职场.md)

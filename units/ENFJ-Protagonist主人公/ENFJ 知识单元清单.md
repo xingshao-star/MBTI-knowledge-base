@@ -73,19 +73,19 @@
 ## 关系单元
 
 ### ENFJ 恋爱
-- `ENFJ-NT-romantic` — [relationships/ENFJ-NT组-恋爱.md](relationships/ENFJ-NT组-恋爱.md)
-- `ENFJ-NF-romantic` — [relationships/ENFJ-NF组-恋爱.md](relationships/ENFJ-NF组-恋爱.md)
-- `ENFJ-SJ-romantic` — [relationships/ENFJ-SJ组-恋爱.md](relationships/ENFJ-SJ组-恋爱.md)
-- `ENFJ-SP-romantic` — [relationships/ENFJ-SP组-恋爱.md](relationships/ENFJ-SP组-恋爱.md)
+- `ENFJ-NT型人-romantic` — [relationships/ENFJ-NT型人-恋爱.md](relationships/ENFJ-NT型人-恋爱.md)
+- `ENFJ-NF型人-romantic` — [relationships/ENFJ-NF型人-恋爱.md](relationships/ENFJ-NF型人-恋爱.md)
+- `ENFJ-SJ型人-romantic` — [relationships/ENFJ-SJ型人-恋爱.md](relationships/ENFJ-SJ型人-恋爱.md)
+- `ENFJ-SP型人-romantic` — [relationships/ENFJ-SP型人-恋爱.md](relationships/ENFJ-SP型人-恋爱.md)
 
 ### ENFJ 友谊
-- `ENFJ-NT-friendship` — [relationships/ENFJ-NT组-友谊.md](relationships/ENFJ-NT组-友谊.md)
-- `ENFJ-NF-friendship` — [relationships/ENFJ-NF组-友谊.md](relationships/ENFJ-NF组-友谊.md)
-- `ENFJ-SJ-friendship` — [relationships/ENFJ-SJ组-友谊.md](relationships/ENFJ-SJ组-友谊.md)
-- `ENFJ-SP-friendship` — [relationships/ENFJ-SP组-友谊.md](relationships/ENFJ-SP组-友谊.md)
+- `ENFJ-NT型人-friendship` — [relationships/ENFJ-NT型人-友谊.md](relationships/ENFJ-NT型人-友谊.md)
+- `ENFJ-NF型人-friendship` — [relationships/ENFJ-NF型人-友谊.md](relationships/ENFJ-NF型人-友谊.md)
+- `ENFJ-SJ型人-friendship` — [relationships/ENFJ-SJ型人-友谊.md](relationships/ENFJ-SJ型人-友谊.md)
+- `ENFJ-SP型人-friendship` — [relationships/ENFJ-SP型人-友谊.md](relationships/ENFJ-SP型人-友谊.md)
 
 ### ENFJ 职场协作
-- `ENFJ-NT-career` — [relationships/ENFJ-NT组-职场.md](relationships/ENFJ-NT组-职场.md)
-- `ENFJ-NF-career` — [relationships/ENFJ-NF组-职场.md](relationships/ENFJ-NF组-职场.md)
-- `ENFJ-SJ-career` — [relationships/ENFJ-SJ组-职场.md](relationships/ENFJ-SJ组-职场.md)
-- `ENFJ-SP-career` — [relationships/ENFJ-SP组-职场.md](relationships/ENFJ-SP组-职场.md)
+- `ENFJ-NT型人-career` — [relationships/ENFJ-NT型人-职场.md](relationships/ENFJ-NT型人-职场.md)
+- `ENFJ-NF型人-career` — [relationships/ENFJ-NF型人-职场.md](relationships/ENFJ-NF型人-职场.md)
+- `ENFJ-SJ型人-career` — [relationships/ENFJ-SJ型人-职场.md](relationships/ENFJ-SJ型人-职场.md)
+- `ENFJ-SP型人-career` — [relationships/ENFJ-SP型人-职场.md](relationships/ENFJ-SP型人-职场.md)

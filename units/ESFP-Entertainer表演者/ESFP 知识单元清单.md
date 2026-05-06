@@ -63,26 +63,26 @@
 ## 关系单元
 
 ### ESFP 恋爱
-- `ESFP-NT-romantic` — [relationships/ESFP-NT型人-恋爱.md](relationships/ESFP-NT型人-恋爱.md)
-- `ESFP-NF-romantic` — [relationships/ESFP-NF型人-恋爱.md](relationships/ESFP-NF型人-恋爱.md)
-- `ESFP-SJ-romantic` — [relationships/ESFP-SJ型人-恋爱.md](relationships/ESFP-SJ型人-恋爱.md)
-- `ESFP-SP-romantic` — [relationships/ESFP-SP型人-恋爱.md](relationships/ESFP-SP型人-恋爱.md)
+- `ESFP-NT型人-romantic` — [relationships/ESFP-NT型人-恋爱.md](relationships/ESFP-NT型人-恋爱.md)
+- `ESFP-NF型人-romantic` — [relationships/ESFP-NF型人-恋爱.md](relationships/ESFP-NF型人-恋爱.md)
+- `ESFP-SJ型人-romantic` — [relationships/ESFP-SJ型人-恋爱.md](relationships/ESFP-SJ型人-恋爱.md)
+- `ESFP-SP型人-romantic` — [relationships/ESFP-SP型人-恋爱.md](relationships/ESFP-SP型人-恋爱.md)
 
 ### ESFP 友谊
 - `ESFP-friendship-overview` — [relationships/ESFP-友谊总论.md](relationships/ESFP-友谊总论.md)
-- `ESFP-NT-friendship` — [relationships/ESFP-NT-友谊.md](relationships/ESFP-NT-友谊.md)
-- `ESFP-NF-friendship` — [relationships/ESFP-NF-友谊.md](relationships/ESFP-NF-友谊.md)
-- `ESFP-SJ-friendship` — [relationships/ESFP-SJ-友谊.md](relationships/ESFP-SJ-友谊.md)
-- `ESFP-SP-friendship` — [relationships/ESFP-SP-友谊.md](relationships/ESFP-SP-友谊.md)
+- `ESFP-NT型人-friendship` — [relationships/ESFP-NT型人-友谊.md](relationships/ESFP-NT型人-友谊.md)
+- `ESFP-NF型人-friendship` — [relationships/ESFP-NF型人-友谊.md](relationships/ESFP-NF型人-友谊.md)
+- `ESFP-SJ型人-friendship` — [relationships/ESFP-SJ型人-友谊.md](relationships/ESFP-SJ型人-友谊.md)
+- `ESFP-SP型人-friendship` — [relationships/ESFP-SP型人-友谊.md](relationships/ESFP-SP型人-友谊.md)
 
 ### ESFP 育儿
-- `ESFP-NT-parenting` — [relationships/ESFP父母-NT-子女.md](relationships/ESFP父母-NT-子女.md)
-- `ESFP-NF-parenting` — [relationships/ESFP父母-NF-子女.md](relationships/ESFP父母-NF-子女.md)
-- `ESFP-SJ-parenting` — [relationships/ESFP父母-SJ-子女.md](relationships/ESFP父母-SJ-子女.md)
-- `ESFP-SP-parenting` — [relationships/ESFP父母-SP-子女.md](relationships/ESFP父母-SP-子女.md)
+- `ESFP-NT型人-parenting` — [relationships/ESFP父母-NT型人-子女.md](relationships/ESFP父母-NT型人-子女.md)
+- `ESFP-NF型人-parenting` — [relationships/ESFP父母-NF型人-子女.md](relationships/ESFP父母-NF型人-子女.md)
+- `ESFP-SJ型人-parenting` — [relationships/ESFP父母-SJ型人-子女.md](relationships/ESFP父母-SJ型人-子女.md)
+- `ESFP-SP型人-parenting` — [relationships/ESFP父母-SP型人-子女.md](relationships/ESFP父母-SP型人-子女.md)
 
 ### ESFP 职场协作
-- `ESFP-NT-career` — [relationships/ESFP-NT型人-职场协作.md](relationships/ESFP-NT型人-职场协作.md)
-- `ESFP-NF-career` — [relationships/ESFP-NF型人-职场协作.md](relationships/ESFP-NF型人-职场协作.md)
-- `ESFP-SJ-career` — [relationships/ESFP-SJ型人-职场协作.md](relationships/ESFP-SJ型人-职场协作.md)
-- `ESFP-SP-career` — [relationships/ESFP-SP型人-职场协作.md](relationships/ESFP-SP型人-职场协作.md)
+- `ESFP-NT型人-career` — [relationships/ESFP-NT型人-职场协作.md](relationships/ESFP-NT型人-职场协作.md)
+- `ESFP-NF型人-career` — [relationships/ESFP-NF型人-职场协作.md](relationships/ESFP-NF型人-职场协作.md)
+- `ESFP-SJ型人-career` — [relationships/ESFP-SJ型人-职场协作.md](relationships/ESFP-SJ型人-职场协作.md)
+- `ESFP-SP型人-career` — [relationships/ESFP-SP型人-职场协作.md](relationships/ESFP-SP型人-职场协作.md)

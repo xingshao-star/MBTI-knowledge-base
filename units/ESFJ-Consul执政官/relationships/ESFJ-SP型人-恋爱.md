@@ -1,5 +1,5 @@
 ---
-id: ESFJ-SP-romantic
+id: ESFJ-SP型人-romantic
 type: ESFJ
 category: romantic
 topic: ESFJ与SP型人 — 恋爱关系

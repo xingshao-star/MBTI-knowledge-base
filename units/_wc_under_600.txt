@@ -24,7 +24,7 @@
 450: ./ESTP-Entrepreneur企业家/ESTP/成长-自尊与即兴.md
 450: ./ESTP-Entrepreneur企业家/ESTP/成长-自尊与能力.md
 480: ./ESFP-Entertainer表演者/ESFP/成长-自信.md
-489: ./ISTP-Virtuoso鉴赏家/relationships/ISTP-SJ组-友谊.md
+489: ./ISTP-Virtuoso鉴赏家/relationships/ISTP-SJ型人-友谊.md
 500: ./ESFJ-Consul执政官/ESFJ/职业-职业技能.md
 500: ./ESTP-Entrepreneur企业家/ESTP/成长-人际效能.md
 500: ./ESTP-Entrepreneur企业家/ESTP/成长-随机应变.md
@@ -34,13 +34,13 @@
 516: ./ISTP-Virtuoso鉴赏家/ISTP/育儿-SJ型子女.md
 520: ./ESFJ-Consul执政官/ESFJ/overview-学业与职业.md
 520: ./ESTP-Entrepreneur企业家/ESTP/友谊-总论.md
-530: ./ISTP-Virtuoso鉴赏家/relationships/ISTP-NF组-友谊.md
+530: ./ISTP-Virtuoso鉴赏家/relationships/ISTP-NF型人-友谊.md
 540: ./ESTJ-Executive总经理/ESTJ/academic-学术总论.md
 548: ./INTJ-Architect建筑师/INTJ/成长-劣势.md
 550: ./ESTP-Entrepreneur企业家/ESTP/成长-自信.md
 560: ./ESFJ-Consul执政官/ESFJ/结语.md
 562: ./ISTP-Virtuoso鉴赏家/ISTP/学业-大学.md
 566: ./ISTP-Virtuoso鉴赏家/ISTP/恋爱-总论.md
-574: ./ISTP-Virtuoso鉴赏家/relationships/ISTP-NT组-友谊.md
+574: ./ISTP-Virtuoso鉴赏家/relationships/ISTP-NT型人-友谊.md
 585: ./ISFJ-Defender守卫者/ISFJ/职业-职场习惯.md
 600: ./ISTP-Virtuoso鉴赏家/ISTP/概述-谁是ISTP.md

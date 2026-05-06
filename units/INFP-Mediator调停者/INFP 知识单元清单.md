@@ -73,19 +73,19 @@
 ## 关系单元
 
 ### INFP 恋爱
-- `INFP-NT-romantic` — [relationships/INFP-NT型人-恋爱.md](relationships/INFP-NT型人-恋爱.md)
-- `INFP-NF-romantic` — [relationships/INFP-NF型人-恋爱.md](relationships/INFP-NF型人-恋爱.md)
-- `INFP-SJ-romantic` — [relationships/INFP-SJ型人-恋爱.md](relationships/INFP-SJ型人-恋爱.md)
-- `INFP-SP-romantic` — [relationships/INFP-SP型人-恋爱.md](relationships/INFP-SP型人-恋爱.md)
+- `INFP-NT型人-romantic` — [relationships/INFP-NT型人-恋爱.md](relationships/INFP-NT型人-恋爱.md)
+- `INFP-NF型人-romantic` — [relationships/INFP-NF型人-恋爱.md](relationships/INFP-NF型人-恋爱.md)
+- `INFP-SJ型人-romantic` — [relationships/INFP-SJ型人-恋爱.md](relationships/INFP-SJ型人-恋爱.md)
+- `INFP-SP型人-romantic` — [relationships/INFP-SP型人-恋爱.md](relationships/INFP-SP型人-恋爱.md)
 
 ### INFP 友谊
-- `INFP-NT-friendship` — [relationships/INFP-NT型人-友谊.md](relationships/INFP-NT型人-友谊.md)
-- `INFP-NF-friendship` — [relationships/INFP-NF型人-友谊.md](relationships/INFP-NF型人-友谊.md)
-- `INFP-SJ-friendship` — [relationships/INFP-SJ型人-友谊.md](relationships/INFP-SJ型人-友谊.md)
-- `INFP-SP-friendship` — [relationships/INFP-SP型人-友谊.md](relationships/INFP-SP型人-友谊.md)
+- `INFP-NT型人-friendship` — [relationships/INFP-NT型人-友谊.md](relationships/INFP-NT型人-友谊.md)
+- `INFP-NF型人-friendship` — [relationships/INFP-NF型人-友谊.md](relationships/INFP-NF型人-友谊.md)
+- `INFP-SJ型人-friendship` — [relationships/INFP-SJ型人-友谊.md](relationships/INFP-SJ型人-友谊.md)
+- `INFP-SP型人-friendship` — [relationships/INFP-SP型人-友谊.md](relationships/INFP-SP型人-友谊.md)
 
 ### INFP 职场协作
-- `INFP-NT-career` — [relationships/INFP-NT型人-职场协作.md](relationships/INFP-NT型人-职场协作.md)
-- `INFP-NF-career` — [relationships/INFP-NF型人-职场协作.md](relationships/INFP-NF型人-职场协作.md)
-- `INFP-SJ-career` — [relationships/INFP-SJ型人-职场协作.md](relationships/INFP-SJ型人-职场协作.md)
-- `INFP-SP-career` — [relationships/INFP-SP型人-职场协作.md](relationships/INFP-SP型人-职场协作.md)
+- `INFP-NT型人-career` — [relationships/INFP-NT型人-职场协作.md](relationships/INFP-NT型人-职场协作.md)
+- `INFP-NF型人-career` — [relationships/INFP-NF型人-职场协作.md](relationships/INFP-NF型人-职场协作.md)
+- `INFP-SJ型人-career` — [relationships/INFP-SJ型人-职场协作.md](relationships/INFP-SJ型人-职场协作.md)
+- `INFP-SP型人-career` — [relationships/INFP-SP型人-职场协作.md](relationships/INFP-SP型人-职场协作.md)

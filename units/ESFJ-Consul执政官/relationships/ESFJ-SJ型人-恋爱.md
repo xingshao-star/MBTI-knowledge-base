@@ -1,5 +1,5 @@
 ---
-id: ESFJ-SJ-romantic
+id: ESFJ-SJ型人-romantic
 type: ESFJ
 category: romantic
 topic: ESFJ与SJ型人 — 恋爱关系

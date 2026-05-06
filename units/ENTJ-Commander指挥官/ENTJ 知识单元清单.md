@@ -77,13 +77,13 @@
 ## 关系单元
 
 ### ENTJ 恋爱
-- `ENTJ-NT-romantic` — [relationships/ENTJ-NT组-恋爱.md](relationships/ENTJ-NT组-恋爱.md)
-- `ENTJ-NF-romantic` — [relationships/ENTJ-NF组-恋爱.md](relationships/ENTJ-NF组-恋爱.md)
-- `ENTJ-SJ-romantic` — [relationships/ENTJ-SJ组-恋爱.md](relationships/ENTJ-SJ组-恋爱.md)
-- `ENTJ-SP-romantic` — [relationships/ENTJ-SP组-恋爱.md](relationships/ENTJ-SP组-恋爱.md)
+- `ENTJ-NT型人-romantic` — [relationships/ENTJ-NT型人-恋爱.md](relationships/ENTJ-NT型人-恋爱.md)
+- `ENTJ-NF型人-romantic` — [relationships/ENTJ-NF型人-恋爱.md](relationships/ENTJ-NF型人-恋爱.md)
+- `ENTJ-SJ型人-romantic` — [relationships/ENTJ-SJ型人-恋爱.md](relationships/ENTJ-SJ型人-恋爱.md)
+- `ENTJ-SP型人-romantic` — [relationships/ENTJ-SP型人-恋爱.md](relationships/ENTJ-SP型人-恋爱.md)
 
 ### ENTJ 友谊
-- `ENTJ-NT-friendship` — [relationships/ENTJ-NT组-友谊.md](relationships/ENTJ-NT组-友谊.md)
-- `ENTJ-NF-friendship` — [relationships/ENTJ-NF组-友谊.md](relationships/ENTJ-NF组-友谊.md)
-- `ENTJ-SJ-friendship` — [relationships/ENTJ-SJ组-友谊.md](relationships/ENTJ-SJ组-友谊.md)
-- `ENTJ-SP-friendship` — [relationships/ENTJ-SP组-友谊.md](relationships/ENTJ-SP组-友谊.md)
+- `ENTJ-NT型人-friendship` — [relationships/ENTJ-NT型人-友谊.md](relationships/ENTJ-NT型人-友谊.md)
+- `ENTJ-NF型人-friendship` — [relationships/ENTJ-NF型人-友谊.md](relationships/ENTJ-NF型人-友谊.md)
+- `ENTJ-SJ型人-friendship` — [relationships/ENTJ-SJ型人-友谊.md](relationships/ENTJ-SJ型人-友谊.md)
+- `ENTJ-SP型人-friendship` — [relationships/ENTJ-SP型人-友谊.md](relationships/ENTJ-SP型人-友谊.md)

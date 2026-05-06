@@ -32,8 +32,8 @@
 | 28 | Prospecting | 灵活型 |
 | 29 | Assertive | 自信型 |
 | 30 | Turbulent | 动荡型 |
-| 31 | Role | 角色分组 |
-| 32 | Roles | 角色分组 |
+| 31 | Role | 类型 |
+| 32 | Roles | 类型组 |
 | 33 | Strategy | 策略分组 |
 | 34 | Strategies | 策略分组 |
 | 35 | trait | 特质 |

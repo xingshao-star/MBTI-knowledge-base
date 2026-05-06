@@ -82,13 +82,13 @@
 ## 关系单元
 
 ### ESFJ 恋爱
-- `ESFJ-NT-romantic` — [relationships/ESFJ-NT型人-恋爱.md](relationships/ESFJ-NT型人-恋爱.md)
-- `ESFJ-NF-romantic` — [relationships/ESFJ-NF型人-恋爱.md](relationships/ESFJ-NF型人-恋爱.md)
-- `ESFJ-SJ-romantic` — [relationships/ESFJ-SJ型人-恋爱.md](relationships/ESFJ-SJ型人-恋爱.md)
-- `ESFJ-SP-romantic` — [relationships/ESFJ-SP型人-恋爱.md](relationships/ESFJ-SP型人-恋爱.md)
+- `ESFJ-NT型人-romantic` — [relationships/ESFJ-NT型人-恋爱.md](relationships/ESFJ-NT型人-恋爱.md)
+- `ESFJ-NF型人-romantic` — [relationships/ESFJ-NF型人-恋爱.md](relationships/ESFJ-NF型人-恋爱.md)
+- `ESFJ-SJ型人-romantic` — [relationships/ESFJ-SJ型人-恋爱.md](relationships/ESFJ-SJ型人-恋爱.md)
+- `ESFJ-SP型人-romantic` — [relationships/ESFJ-SP型人-恋爱.md](relationships/ESFJ-SP型人-恋爱.md)
 
 ### ESFJ 友谊
-- `ESFJ-NT-friendship` — [relationships/ESFJ-NT型人-友谊.md](relationships/ESFJ-NT型人-友谊.md)
-- `ESFJ-NF-friendship` — [relationships/ESFJ-NF型人-友谊.md](relationships/ESFJ-NF型人-友谊.md)
-- `ESFJ-SJ-friendship` — [relationships/ESFJ-SJ型人-友谊.md](relationships/ESFJ-SJ型人-友谊.md)
-- `ESFJ-SP-friendship` — [relationships/ESFJ-SP型人-友谊.md](relationships/ESFJ-SP型人-友谊.md)
+- `ESFJ-NT型人-friendship` — [relationships/ESFJ-NT型人-友谊.md](relationships/ESFJ-NT型人-友谊.md)
+- `ESFJ-NF型人-friendship` — [relationships/ESFJ-NF型人-友谊.md](relationships/ESFJ-NF型人-友谊.md)
+- `ESFJ-SJ型人-friendship` — [relationships/ESFJ-SJ型人-友谊.md](relationships/ESFJ-SJ型人-友谊.md)
+- `ESFJ-SP型人-friendship` — [relationships/ESFJ-SP型人-友谊.md](relationships/ESFJ-SP型人-友谊.md)

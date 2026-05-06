@@ -73,19 +73,19 @@
 ## 关系单元
 
 ### ESTJ 恋爱
-- `ESTJ-NT-romantic` — [relationships/ESTJ-NT-恋爱.md](relationships/ESTJ-NT-恋爱.md)
-- `ESTJ-NF-romantic` — [relationships/ESTJ-NF-恋爱.md](relationships/ESTJ-NF-恋爱.md)
-- `ESTJ-SJ-romantic` — [relationships/ESTJ-SJ-恋爱.md](relationships/ESTJ-SJ-恋爱.md)
-- `ESTJ-SP-romantic` — [relationships/ESTJ-SP-恋爱.md](relationships/ESTJ-SP-恋爱.md)
+- `ESTJ-NT型人-romantic` — [relationships/ESTJ-NT型人-恋爱.md](relationships/ESTJ-NT型人-恋爱.md)
+- `ESTJ-NF型人-romantic` — [relationships/ESTJ-NF型人-恋爱.md](relationships/ESTJ-NF型人-恋爱.md)
+- `ESTJ-SJ型人-romantic` — [relationships/ESTJ-SJ型人-恋爱.md](relationships/ESTJ-SJ型人-恋爱.md)
+- `ESTJ-SP型人-romantic` — [relationships/ESTJ-SP型人-恋爱.md](relationships/ESTJ-SP型人-恋爱.md)
 
 ### ESTJ 友谊
-- `ESTJ-NT-friendship` — [relationships/ESTJ-NT-友谊.md](relationships/ESTJ-NT-友谊.md)
-- `ESTJ-NF-friendship` — [relationships/ESTJ-NF-友谊.md](relationships/ESTJ-NF-友谊.md)
-- `ESTJ-SJ-friendship` — [relationships/ESTJ-SJ-友谊.md](relationships/ESTJ-SJ-友谊.md)
-- `ESTJ-SP-friendship` — [relationships/ESTJ-SP-友谊.md](relationships/ESTJ-SP-友谊.md)
+- `ESTJ-NT型人-friendship` — [relationships/ESTJ-NT型人-友谊.md](relationships/ESTJ-NT型人-友谊.md)
+- `ESTJ-NF型人-friendship` — [relationships/ESTJ-NF型人-友谊.md](relationships/ESTJ-NF型人-友谊.md)
+- `ESTJ-SJ型人-friendship` — [relationships/ESTJ-SJ型人-友谊.md](relationships/ESTJ-SJ型人-友谊.md)
+- `ESTJ-SP型人-friendship` — [relationships/ESTJ-SP型人-友谊.md](relationships/ESTJ-SP型人-友谊.md)
 
 ### ESTJ 职场协作
-- `ESTJ-NT-career` — [relationships/ESTJ-NT-职场协作.md](relationships/ESTJ-NT-职场协作.md)
-- `ESTJ-NF-career` — [relationships/ESTJ-NF-职场协作.md](relationships/ESTJ-NF-职场协作.md)
-- `ESTJ-SJ-career` — [relationships/ESTJ-SJ-职场协作.md](relationships/ESTJ-SJ-职场协作.md)
-- `ESTJ-SP-career` — [relationships/ESTJ-SP-职场协作.md](relationships/ESTJ-SP-职场协作.md)
+- `ESTJ-NT型人-career` — [relationships/ESTJ-NT型人-职场协作.md](relationships/ESTJ-NT型人-职场协作.md)
+- `ESTJ-NF型人-career` — [relationships/ESTJ-NF型人-职场协作.md](relationships/ESTJ-NF型人-职场协作.md)
+- `ESTJ-SJ型人-career` — [relationships/ESTJ-SJ型人-职场协作.md](relationships/ESTJ-SJ型人-职场协作.md)
+- `ESTJ-SP型人-career` — [relationships/ESTJ-SP型人-职场协作.md](relationships/ESTJ-SP型人-职场协作.md)

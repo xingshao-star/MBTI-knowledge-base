@@ -78,19 +78,19 @@
 ## 关系单元
 
 ### ENTP 恋爱
-- `ENTP-NT-romantic` — [relationships/ENTP-NT组-恋爱.md](relationships/ENTP-NT组-恋爱.md)
-- `ENTP-NF-romantic` — [relationships/ENTP-NF组-恋爱.md](relationships/ENTP-NF组-恋爱.md)
-- `ENTP-SJ-romantic` — [relationships/ENTP-SJ组-恋爱.md](relationships/ENTP-SJ组-恋爱.md)
-- `ENTP-SP-romantic` — [relationships/ENTP-SP组-恋爱.md](relationships/ENTP-SP组-恋爱.md)
+- `ENTP-NT型人-romantic` — [relationships/ENTP-NT型人-恋爱.md](relationships/ENTP-NT型人-恋爱.md)
+- `ENTP-NF型人-romantic` — [relationships/ENTP-NF型人-恋爱.md](relationships/ENTP-NF型人-恋爱.md)
+- `ENTP-SJ型人-romantic` — [relationships/ENTP-SJ型人-恋爱.md](relationships/ENTP-SJ型人-恋爱.md)
+- `ENTP-SP型人-romantic` — [relationships/ENTP-SP型人-恋爱.md](relationships/ENTP-SP型人-恋爱.md)
 
 ### ENTP 友谊
-- `ENTP-NT-friendship` — [relationships/ENTP-NT组-友谊.md](relationships/ENTP-NT组-友谊.md)
-- `ENTP-NF-friendship` — [relationships/ENTP-NF组-友谊.md](relationships/ENTP-NF组-友谊.md)
-- `ENTP-SJ-friendship` — [relationships/ENTP-SJ组-友谊.md](relationships/ENTP-SJ组-友谊.md)
-- `ENTP-SP-friendship` — [relationships/ENTP-SP组-友谊.md](relationships/ENTP-SP组-友谊.md)
+- `ENTP-NT型人-friendship` — [relationships/ENTP-NT型人-友谊.md](relationships/ENTP-NT型人-友谊.md)
+- `ENTP-NF型人-friendship` — [relationships/ENTP-NF型人-友谊.md](relationships/ENTP-NF型人-友谊.md)
+- `ENTP-SJ型人-friendship` — [relationships/ENTP-SJ型人-友谊.md](relationships/ENTP-SJ型人-友谊.md)
+- `ENTP-SP型人-friendship` — [relationships/ENTP-SP型人-友谊.md](relationships/ENTP-SP型人-友谊.md)
 
 ### ENTP 职场协作
-- `ENTP-NT-career` — [relationships/ENTP-NT组-职场.md](relationships/ENTP-NT组-职场.md)
-- `ENTP-NF-career` — [relationships/ENTP-NF组-职场.md](relationships/ENTP-NF组-职场.md)
-- `ENTP-SJ-career` — [relationships/ENTP-SJ组-职场.md](relationships/ENTP-SJ组-职场.md)
-- `ENTP-SP-career` — [relationships/ENTP-SP组-职场.md](relationships/ENTP-SP组-职场.md)
+- `ENTP-NT型人-career` — [relationships/ENTP-NT型人-职场.md](relationships/ENTP-NT型人-职场.md)
+- `ENTP-NF型人-career` — [relationships/ENTP-NF型人-职场.md](relationships/ENTP-NF型人-职场.md)
+- `ENTP-SJ型人-career` — [relationships/ENTP-SJ型人-职场.md](relationships/ENTP-SJ型人-职场.md)
+- `ENTP-SP型人-career` — [relationships/ENTP-SP型人-职场.md](relationships/ENTP-SP型人-职场.md)

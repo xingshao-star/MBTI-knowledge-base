@@ -65,19 +65,19 @@
 ## 关系单元
 
 ### ISFP 恋爱
-- `ISFP-NT-romantic` — [relationships/ISFP-NT组-恋爱.md](relationships/ISFP-NT组-恋爱.md)
-- `ISFP-NF-romantic` — [relationships/ISFP-NF组-恋爱.md](relationships/ISFP-NF组-恋爱.md)
-- `ISFP-SJ-romantic` — [relationships/ISFP-SJ组-恋爱.md](relationships/ISFP-SJ组-恋爱.md)
-- `ISFP-SP-romantic` — [relationships/ISFP-SP组-恋爱.md](relationships/ISFP-SP组-恋爱.md)
+- `ISFP-NT型人-romantic` — [relationships/ISFP-NT型人-恋爱.md](relationships/ISFP-NT型人-恋爱.md)
+- `ISFP-NF型人-romantic` — [relationships/ISFP-NF型人-恋爱.md](relationships/ISFP-NF型人-恋爱.md)
+- `ISFP-SJ型人-romantic` — [relationships/ISFP-SJ型人-恋爱.md](relationships/ISFP-SJ型人-恋爱.md)
+- `ISFP-SP型人-romantic` — [relationships/ISFP-SP型人-恋爱.md](relationships/ISFP-SP型人-恋爱.md)
 
 ### ISFP 友谊
-- `ISFP-NT-friendship` — [relationships/ISFP-NT组-友谊.md](relationships/ISFP-NT组-友谊.md)
-- `ISFP-NF-friendship` — [relationships/ISFP-NF组-友谊.md](relationships/ISFP-NF组-友谊.md)
-- `ISFP-SJ-friendship` — [relationships/ISFP-SJ组-友谊.md](relationships/ISFP-SJ组-友谊.md)
-- `ISFP-SP-friendship` — [relationships/ISFP-SP组-友谊.md](relationships/ISFP-SP组-友谊.md)
+- `ISFP-NT型人-friendship` — [relationships/ISFP-NT型人-友谊.md](relationships/ISFP-NT型人-友谊.md)
+- `ISFP-NF型人-friendship` — [relationships/ISFP-NF型人-友谊.md](relationships/ISFP-NF型人-友谊.md)
+- `ISFP-SJ型人-friendship` — [relationships/ISFP-SJ型人-友谊.md](relationships/ISFP-SJ型人-友谊.md)
+- `ISFP-SP型人-friendship` — [relationships/ISFP-SP型人-友谊.md](relationships/ISFP-SP型人-友谊.md)
 
 ### ISFP 育儿
-- `ISFP-NT-parenting` — [relationships/ISFP-NT组-育儿.md](relationships/ISFP-NT组-育儿.md)
-- `ISFP-NF-parenting` — [relationships/ISFP-NF组-育儿.md](relationships/ISFP-NF组-育儿.md)
-- `ISFP-SJ-parenting` — [relationships/ISFP-SJ组-育儿.md](relationships/ISFP-SJ组-育儿.md)
-- `ISFP-SP-parenting` — [relationships/ISFP-SP组-育儿.md](relationships/ISFP-SP组-育儿.md)
+- `ISFP-NT型人-parenting` — [relationships/ISFP-NT型人-育儿.md](relationships/ISFP-NT型人-育儿.md)
+- `ISFP-NF型人-parenting` — [relationships/ISFP-NF型人-育儿.md](relationships/ISFP-NF型人-育儿.md)
+- `ISFP-SJ型人-parenting` — [relationships/ISFP-SJ型人-育儿.md](relationships/ISFP-SJ型人-育儿.md)
+- `ISFP-SP型人-parenting` — [relationships/ISFP-SP型人-育儿.md](relationships/ISFP-SP型人-育儿.md)

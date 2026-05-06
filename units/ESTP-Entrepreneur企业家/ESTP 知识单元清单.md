@@ -69,25 +69,25 @@
 ## 关系单元
 
 ### ESTP 恋爱
-- `ESTP-NT组-恋爱` — [relationships/ESTP-NT组-恋爱.md](relationships/ESTP-NT组-恋爱.md)
-- `ESTP-NF组-恋爱` — [relationships/ESTP-NF组-恋爱.md](relationships/ESTP-NF组-恋爱.md)
-- `ESTP-SJ组-恋爱` — [relationships/ESTP-SJ组-恋爱.md](relationships/ESTP-SJ组-恋爱.md)
-- `ESTP-SP组-恋爱` — [relationships/ESTP-SP组-恋爱.md](relationships/ESTP-SP组-恋爱.md)
+- `ESTP-NT型人-romantic` — [relationships/ESTP-NT型人-恋爱.md](relationships/ESTP-NT型人-恋爱.md)
+- `ESTP-NF型人-romantic` — [relationships/ESTP-NF型人-恋爱.md](relationships/ESTP-NF型人-恋爱.md)
+- `ESTP-SJ型人-romantic` — [relationships/ESTP-SJ型人-恋爱.md](relationships/ESTP-SJ型人-恋爱.md)
+- `ESTP-SP型人-romantic` — [relationships/ESTP-SP型人-恋爱.md](relationships/ESTP-SP型人-恋爱.md)
 
 ### ESTP 友谊
-- `ESTP-NT组-友谊` — [relationships/ESTP-NT组-友谊.md](relationships/ESTP-NT组-友谊.md)
-- `ESTP-NF组-友谊` — [relationships/ESTP-NF组-友谊.md](relationships/ESTP-NF组-友谊.md)
-- `ESTP-SJ组-友谊` — [relationships/ESTP-SJ组-友谊.md](relationships/ESTP-SJ组-友谊.md)
-- `ESTP-SP组-友谊` — [relationships/ESTP-SP组-友谊.md](relationships/ESTP-SP组-友谊.md)
+- `ESTP-NT型人-friendship` — [relationships/ESTP-NT型人-友谊.md](relationships/ESTP-NT型人-友谊.md)
+- `ESTP-NF型人-friendship` — [relationships/ESTP-NF型人-友谊.md](relationships/ESTP-NF型人-友谊.md)
+- `ESTP-SJ型人-friendship` — [relationships/ESTP-SJ型人-友谊.md](relationships/ESTP-SJ型人-友谊.md)
+- `ESTP-SP型人-friendship` — [relationships/ESTP-SP型人-友谊.md](relationships/ESTP-SP型人-友谊.md)
 
 ### ESTP 育儿
-- `ESTP-NT组-育儿` — [relationships/ESTP-NT组-育儿.md](relationships/ESTP-NT组-育儿.md)
-- `ESTP-NF组-育儿` — [relationships/ESTP-NF组-育儿.md](relationships/ESTP-NF组-育儿.md)
-- `ESTP-SJ组-育儿` — [relationships/ESTP-SJ组-育儿.md](relationships/ESTP-SJ组-育儿.md)
-- `ESTP-SP组-育儿` — [relationships/ESTP-SP组-育儿.md](relationships/ESTP-SP组-育儿.md)
+- `ESTP-NT型人-parenting` — [relationships/ESTP-NT型人-育儿.md](relationships/ESTP-NT型人-育儿.md)
+- `ESTP-NF型人-parenting` — [relationships/ESTP-NF型人-育儿.md](relationships/ESTP-NF型人-育儿.md)
+- `ESTP-SJ型人-parenting` — [relationships/ESTP-SJ型人-育儿.md](relationships/ESTP-SJ型人-育儿.md)
+- `ESTP-SP型人-parenting` — [relationships/ESTP-SP型人-育儿.md](relationships/ESTP-SP型人-育儿.md)
 
 ### ESTP 职场协作
-- `ESTP-NT组-职场` — [relationships/ESTP-NT组-职场.md](relationships/ESTP-NT组-职场.md)
-- `ESTP-NF组-职场` — [relationships/ESTP-NF组-职场.md](relationships/ESTP-NF组-职场.md)
-- `ESTP-SJ组-职场` — [relationships/ESTP-SJ组-职场.md](relationships/ESTP-SJ组-职场.md)
-- `ESTP-SP组-职场` — [relationships/ESTP-SP组-职场.md](relationships/ESTP-SP组-职场.md)
+- `ESTP-NT型人-career` — [relationships/ESTP-NT型人-职场.md](relationships/ESTP-NT型人-职场.md)
+- `ESTP-NF型人-career` — [relationships/ESTP-NF型人-职场.md](relationships/ESTP-NF型人-职场.md)
+- `ESTP-SJ型人-career` — [relationships/ESTP-SJ型人-职场.md](relationships/ESTP-SJ型人-职场.md)
+- `ESTP-SP型人-career` — [relationships/ESTP-SP型人-职场.md](relationships/ESTP-SP型人-职场.md)
