@@ -40,7 +40,6 @@ MBTI知识库/
 ├── wiki/                    ← 知识 Wiki（LLM 维护）
 │   ├── wiki-index.md        ← 语义目录（每条含摘要，LLM 查阅入口）
 │   ├── log.md
-│   ├── overview.md          ← 叙事性综述
 │   ├── types/               ← 枢纽页 + 详情子页面（按类型子目录）
 │   ├── dimensions/
 │   ├── functions/
