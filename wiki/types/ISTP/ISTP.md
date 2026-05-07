@@ -36,22 +36,22 @@ status: draft
 ### 类型间关系
 
 #### 恋爱
-- `ISTP-NT组-恋爱` — ISTP与NT分析家型（INTJ、INTP、ENTJ、ENTP）在恋爱中的互动模式与适配性
-- `ISTP-NF组-恋爱` — ISTP与NF外交家型（INFJ、INFP、ENFJ、ENFP）在恋爱中的互动模式与适配性
-- `ISTP-SJ组-恋爱` — ISTP与SJ守卫者型（ISTJ、ISFJ、ESTJ、ESFJ）在恋爱中的互动模式与适配性
-- `ISTP-SP组-恋爱` — ISTP与SP探险家型（ISTP、ISFP、ESTP、ESFP）在恋爱中的互动模式与适配性
+- `ISTP-NT型人-恋爱` — ISTP与NT分析家型（INTJ、INTP、ENTJ、ENTP）在恋爱中的互动模式与适配性
+- `ISTP-NF型人-恋爱` — ISTP与NF外交家型（INFJ、INFP、ENFJ、ENFP）在恋爱中的互动模式与适配性
+- `ISTP-SJ型人-恋爱` — ISTP与SJ守卫者型（ISTJ、ISFJ、ESTJ、ESFJ）在恋爱中的互动模式与适配性
+- `ISTP-SP型人-恋爱` — ISTP与SP探险家型（ISTP、ISFP、ESTP、ESFP）在恋爱中的互动模式与适配性
 
 #### 友谊
-- `ISTP-NT组-友谊` — ISTP与NT分析家型在友谊中的互动模式与共鸣点
-- `ISTP-NF组-友谊` — ISTP与NF外交家型在友谊中的互动模式与共鸣点
-- `ISTP-SJ组-友谊` — ISTP与SJ守卫者型在友谊中的互动模式与共鸣点
-- `ISTP-SP组-友谊` — ISTP与SP探险家型在友谊中的互动模式与共鸣点
+- `ISTP-NT型人-友谊` — ISTP与NT分析家型在友谊中的互动模式与共鸣点
+- `ISTP-NF型人-友谊` — ISTP与NF外交家型在友谊中的互动模式与共鸣点
+- `ISTP-SJ型人-友谊` — ISTP与SJ守卫者型在友谊中的互动模式与共鸣点
+- `ISTP-SP型人-友谊` — ISTP与SP探险家型在友谊中的互动模式与共鸣点
 
 #### 职场
-- `ISTP-NT组-职场` — ISTP与NT分析家型在职场中的协作模式、优势互补与潜在摩擦
-- `ISTP-NF组-职场` — ISTP与NF外交家型在职场中的协作模式、优势互补与潜在摩擦
-- `ISTP-SJ组-职场` — ISTP与SJ守卫者型在职场中的协作模式、优势互补与潜在摩擦
-- `ISTP-SP组-职场` — ISTP与SP探险家型在职场中的协作模式、优势互补与潜在摩擦
+- `ISTP-NT型人-职场` — ISTP与NT分析家型在职场中的协作模式、优势互补与潜在摩擦
+- `ISTP-NF型人-职场` — ISTP与NF外交家型在职场中的协作模式、优势互补与潜在摩擦
+- `ISTP-SJ型人-职场` — ISTP与SJ守卫者型在职场中的协作模式、优势互补与潜在摩擦
+- `ISTP-SP型人-职场` — ISTP与SP探险家型在职场中的协作模式、优势互补与潜在摩擦
 
 ### 育儿
 - `ISTP-育儿-总论与原则` — ISTP作为父母的整体理念与核心原则

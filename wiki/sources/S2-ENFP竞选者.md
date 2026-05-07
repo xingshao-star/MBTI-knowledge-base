@@ -46,3 +46,4 @@ status: draft
 ## 相关页面
 
 - [[ENFP]] — ENFP 枢纽页
+- [[wiki-index]] — 知识库语义目录

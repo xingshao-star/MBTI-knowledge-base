@@ -46,3 +46,4 @@ status: active
 ## 相关页面
 
 - [[ENFJ]] — ENFJ 枢纽页
+- [[wiki-index]] — 知识库语义目录

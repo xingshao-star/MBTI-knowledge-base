@@ -40,28 +40,28 @@ status: draft
 ### 类型间关系（relationships/）
 
 **恋爱**
-- [[ESTP-NT组-恋爱]] — ESTP 与 NT 型人的恋爱互动模式
-- [[ESTP-NF组-恋爱]] — ESTP 与 NF 型人的恋爱互动模式
-- [[ESTP-SJ组-恋爱]] — ESTP 与 SJ 型人的恋爱互动模式
-- [[ESTP-SP组-恋爱]] — ESTP 与 SP 型人的恋爱互动模式
+- [[ESTP-NT型人-恋爱]] — ESTP 与 NT 型人的恋爱互动模式
+- [[ESTP-NF型人-恋爱]] — ESTP 与 NF 型人的恋爱互动模式
+- [[ESTP-SJ型人-恋爱]] — ESTP 与 SJ 型人的恋爱互动模式
+- [[ESTP-SP型人-恋爱]] — ESTP 与 SP 型人的恋爱互动模式
 
 **友谊**
-- [[ESTP-NT组-友谊]] — ESTP 与 NT 型人的友谊互动模式
-- [[ESTP-NF组-友谊]] — ESTP 与 NF 型人的友谊互动模式
-- [[ESTP-SJ组-友谊]] — ESTP 与 SJ 型人的友谊互动模式
-- [[ESTP-SP组-友谊]] — ESTP 与 SP 型人的友谊互动模式
+- [[ESTP-NT型人-友谊]] — ESTP 与 NT 型人的友谊互动模式
+- [[ESTP-NF型人-友谊]] — ESTP 与 NF 型人的友谊互动模式
+- [[ESTP-SJ型人-友谊]] — ESTP 与 SJ 型人的友谊互动模式
+- [[ESTP-SP型人-友谊]] — ESTP 与 SP 型人的友谊互动模式
 
 **育儿**
-- [[ESTP-NT组-育儿]] — ESTP 与 NT 型孩子的亲子互动模式
-- [[ESTP-NF组-育儿]] — ESTP 与 NF 型孩子的亲子互动模式
-- [[ESTP-SJ组-育儿]] — ESTP 与 SJ 型孩子的亲子互动模式
-- [[ESTP-SP组-育儿]] — ESTP 与 SP 型孩子的亲子互动模式
+- [[ESTP-NT型人-育儿]] — ESTP 与 NT 型孩子的亲子互动模式
+- [[ESTP-NF型人-育儿]] — ESTP 与 NF 型孩子的亲子互动模式
+- [[ESTP-SJ型人-育儿]] — ESTP 与 SJ 型孩子的亲子互动模式
+- [[ESTP-SP型人-育儿]] — ESTP 与 SP 型孩子的亲子互动模式
 
 **职场协作**
-- [[ESTP-NT组-职场]] — ESTP 与 NT 型同事的职场协作模式
-- [[ESTP-NF组-职场]] — ESTP 与 NF 型同事的职场协作模式
-- [[ESTP-SJ组-职场]] — ESTP 与 SJ 型同事的职场协作模式
-- [[ESTP-SP组-职场]] — ESTP 与 SP 型同事的职场协作模式
+- [[ESTP-NT型人-职场]] — ESTP 与 NT 型同事的职场协作模式
+- [[ESTP-NF型人-职场]] — ESTP 与 NF 型同事的职场协作模式
+- [[ESTP-SJ型人-职场]] — ESTP 与 SJ 型同事的职场协作模式
+- [[ESTP-SP型人-职场]] — ESTP 与 SP 型同事的职场协作模式
 
 ### 育儿
 - [[ESTP-育儿-总论]] — ESTP 型父母活泼开朗、热爱动手实践，能成为孩子理想父母，但需注意情感联结方面的挑战与弥合策略
