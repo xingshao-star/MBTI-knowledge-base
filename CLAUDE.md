@@ -24,7 +24,7 @@
 ## 目录结构
 
 ```
-MBTI知识库/
+MBTI-knowledge-base/
 ├── CLAUDE.md                ← 本文件（全局入口）
 ├── raw/                     ← 原始素材（人类管理，LLM 只读）
 │   ├── books/
